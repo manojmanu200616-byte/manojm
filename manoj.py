@@ -1,1 +1,2 @@
-print("Hello, GitHub + VS Code")
+print("Second commit test")
+
